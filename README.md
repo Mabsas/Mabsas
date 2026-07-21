@@ -19,7 +19,7 @@
 
 ### 👀 About Me
 
-- 🔭 Currently building **MAPSR-BENCH**, a benchmark for evaluating Vision-Language Models on spatial reasoning over maps — including an automated LLM-as-Judge error-annotation pipeline, built as part of my thesis.
+I am a Computer Science & Engineering student currently exploring the fields of Machine Learning, Artificial Intelligence, and Web Development. My work includes building end-to-end machine learning applications, developing MERN stack and PHP Laravel web applications, and creating interactive games using Unity. I enjoy learning new technologies, experimenting with different frameworks, and applying software engineering principles to build practical, real-world projects.
 
 ---
 
