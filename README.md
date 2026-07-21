@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B026FF&center=true&vCenter=true&width=650&lines=Building+MAPSR-BENCH+%E2%80%94+a+VLM+spatial+reasoning+benchmark;Flutter+%2B+Firebase+developer;Currently+prepping+for+my+thesis+pre-defence;Code+-%3E+Cry+-%3E+Conquer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B026FF&center=true&vCenter=true&width=650&lines=Code+-%3E+Cry+-%3E+Conquer+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 ### 👀 About Me
 
 - 🔭 Currently building **MAPSR-BENCH**, a benchmark for evaluating Vision-Language Models on spatial reasoning over maps — including an automated LLM-as-Judge error-annotation pipeline, built as part of my thesis.
-- ⚡ Fun fact: Code → Cry → Conquer.
 
 ---
 
