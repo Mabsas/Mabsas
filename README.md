@@ -20,9 +20,6 @@
 ### 👀 About Me
 
 - 🔭 Currently building **MAPSR-BENCH**, a benchmark for evaluating Vision-Language Models on spatial reasoning over maps — including an automated LLM-as-Judge error-annotation pipeline, built as part of my thesis.
-- 🌱 Learning and building with **Flutter & Firebase** — actively working on **[TollinGO](https://github.com/Mabsas/TollinGO)**, a mobile app for highway/bridge toll payments.
-- 💻 Also dabble in **C++ competitive programming** ([Code_Forces](https://github.com/Mabsas/Code_Forces)) and web dev ([html_website_byme](https://github.com/Mabsas/html_website_byme), [BS_pro](https://github.com/Mabsas/BS_pro)).
-- 🤝 Looking to collaborate on **Flutter projects**.
 - ⚡ Fun fact: Code → Cry → Conquer.
 
 ---
